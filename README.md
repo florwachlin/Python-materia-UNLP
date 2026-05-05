@@ -9,20 +9,20 @@ Este repositorio contiene los **trabajos prácticos y entregas** del curso que h
 
 ## 🗓️ Contenidos del curso
 
-| Clase | Fecha | Tipo | Temas |
-|-------|-------|------|-------|
-| Clase 0 | 30/04/2026 | Virtual asincrónica | Instalación de software, cronograma y recursos |
-| Clase 1 | 30/04/2026 | Presencial | Lógica proposicional, operadores |
-| Clase 2 | 6/04/2026 | Presencial | Variables, `print()`, `input()`, algoritmos secuenciales |
-| Clase 3 | 13/04/2026 | Presencial | Librería `math` y `hashlib`, Hash, Cadenas |
-| Clase 4 | 20/04/2026 | Virtual sincrónica | `hashlib`, `getpass`, Listas, `while`, `for` |
-| Clase 5 | 27/04/2026 | Virtual sincrónica | Funciones, `random`, `sleep` — **⭐ TP5: Entrega de medio término** |
-| Clase 6 | 4/05/2026 | Virtual asincrónica | Interfaces gráficas con `tkinter` |
-| Clase 7 | 11/05/2026 | Presencial | Análisis de datos con Python I: archivos + `pandas` |
-| Clase 8 | 18/05/2026 | Virtual asincrónica | Análisis de datos con Python II: gráficas + `pandas` + reportes |
-| Clase 9 | 25/05/2026 | Virtual sincrónica | Taller Raspberry Pi |
-| Clase 10 | 1/06/2026 | Presencial | TPS finales |
-
+ 
+| Clase | Fecha | Temas |
+|-------|-------|-------|
+| 0 | 30/04/2026 | Instalación de software, cronograma y recursos |
+| 1 | 30/04/2026 | Lógica proposicional, operadores |
+| 2 | 6/04/2026 | Variables, `print()`, `input()`, algoritmos secuenciales |
+| 3 | 13/04/2026 | Librería `math` y `hashlib`, Hash, Cadenas |
+| 4 | 20/04/2026 | `hashlib`, `getpass`, Listas, `while`, `for` |
+| 5 | 27/04/2026 | Funciones, `random`, `sleep` — **⭐ TP5: Entrega de medio término** |
+| 6 | 4/05/2026 | Interfaces gráficas con `tkinter` |
+| 7 | 11/05/2026 | Análisis de datos con Python I: archivos + `pandas` |
+| 8 | 18/05/2026 | Análisis de datos con Python II: gráficas + `pandas` + reportes |
+| 9 | 25/05/2026 | Taller Raspberry Pi |
+| 10 | 1/06/2026 | TPS finales |
 ---
 
 ## 🧠 Resumen del curso
