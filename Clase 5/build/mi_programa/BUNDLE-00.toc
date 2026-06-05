@@ -1,0 +1,3 @@
+([('mi_programa',
+   '/Users/flor/Documents/Facultad/Progra_python/VSC/Clase 5/dist/mi_programa',
+   'EXECUTABLE')],)

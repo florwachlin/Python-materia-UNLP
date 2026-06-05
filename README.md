@@ -7,22 +7,23 @@ Este repositorio contiene los **trabajos prácticos y entregas** del curso que h
 
 ---
 
-## 🗓️ Contenidos del curso
+## 🗓️ Contenidos del curso - cronograma
 
  
 | Clase | Fecha | Temas |
 |-------|-------|-------|
-| 0 | 30/04/2026 | Instalación de software, cronograma y recursos |
-| 1 | 30/04/2026 | Lógica proposicional, operadores |
-| 2 | 6/04/2026 | Variables, `print()`, `input()`, algoritmos secuenciales |
-| 3 | 13/04/2026 | Librería `math` y `hashlib`, Hash, Cadenas |
-| 4 | 20/04/2026 | `hashlib`, `getpass`, Listas, `while`, `for` |
-| 5 | 27/04/2026 | Funciones, `random`, `sleep` — **⭐ TP5: Entrega de medio término** |
-| 6 | 4/05/2026 | Interfaces gráficas con `tkinter` |
-| 7 | 11/05/2026 | Análisis de datos con Python I: archivos + `pandas` |
-| 8 | 18/05/2026 | Análisis de datos con Python II: gráficas + `pandas` + reportes |
-| 9 | 25/05/2026 | Taller Raspberry Pi |
-| 10 | 1/06/2026 | TPS finales |
+| 1 | 30/04/2026 | Instalación de software, cronograma y recursos |
+| 2 | 30/04/2026 | Lógica proposicional, operadores |
+| 3 | 6/04/2026 | Variables, `print()`, `input()`, algoritmos secuenciales |
+| 4 | 13/04/2026 | Librería `math` y `hashlib`, Hash, Cadenas |
+| 5 | 20/04/2026 | `hashlib`, `getpass`, Listas, `while`, `for` |
+| 6 | 27/04/2026 | Funciones, `random`, `sleep` — **⭐ TP5: Entrega de medio término** |
+| 7 | 4/05/2026 | Interfaces gráficas con `tkinter` |
+| 8 | 11/05/2026 | Análisis de datos con Python I: archivos + `pandas` |
+| 9 | 18/05/2026 | Análisis de datos con Python II: gráficas + `pandas` + reportes |
+| 10 | 25/05/2026 | Taller Raspberry Pi |
+| 12 | 25/05/2026 | IA con Python |
+| 11 | 1/06/2026 | TPS finales |
 ---
 
 ## 🧠 Resumen del curso
@@ -31,22 +32,26 @@ El curso arranca con los **fundamentos de la programación**: lógica, variables
 
 A mitad de cursada se profundiza en **estructuras de control** (`while`, `for`) y **funciones**, cerrando esa etapa con una entrega de medio término integradora.
 
-La segunda mitad da un salto hacia aplicaciones más complejas: **interfaces gráficas con `tkinter`**, **análisis y visualización de datos con `pandas`**, y finalmente un **taller de hardware con Raspberry Pi** — conectando el software con el mundo físico.
-
+La segunda mitad da un salto hacia aplicaciones más complejas: **interfaces gráficas con `tkinter`**, **análisis y visualización de datos con `pandas`y `matplotlib`**, y finalmente una clase dedicada a los **modelos de Inteligencia Artificial**. 
 ---
 
-## 📁 Estructura del repositorio
+## 📁 Estructura de mi repositorio
 
 ```
-📦 PPI-Presencial
- ┣ 📂 TP1 – Lógica y operadores
- ┣ 📂 TP2 – Variables y condicionales
- ┣ 📂 TP3 – Hash, while y cadenas
- ┣ 📂 TP4 – Contraseña segura con hashlib
- ┣ 📂 TP5 – Funciones y menú interactivo ⭐
+📦 PPI-Presencial 
+ ┣ 📂 Clase 1 – Lógica y operadores
+ ┣ 📂 Clase 2 – Variables y condicionales
+ ┣ 📂 Clase 3 – Hash, while y cadenas
+ ┣ 📂 Clase 4 – Contraseña segura con hashlib
+ ┣ 📂 Clase 5 – Funciones y menú interactivo ⭐
  ┗ 📜 README.md
+ ┣ 📂 Clase 6 – Interfaces gráficas de usuario (GUI)
+ ┣ 📂 Clase 7 – Crear un Pipeline de datos
+ ┣ 📂 Clase 8 – Analisis de datos: sensores, ciudad, altura/pesos
+ ┣ 📂 Clase 9 – Taller de raspberry
+ ┣ 📂 Clase 10 – Tp final: Analisis de producción
 ```
 
 ---
 
-> 💡 *Cada carpeta contiene el archivo `.py` correspondiente y en el caso del tp5 un readme para saber como ejecutar el programa*
+> 💡 *Cada carpeta contiene archivos `.py` con los programas que hemos hecho en clase como los propios, y en el caso del tp5 y tp final un readme para saber como ejecutar el programa o de que se trata*
